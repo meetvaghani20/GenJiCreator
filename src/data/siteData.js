@@ -148,7 +148,7 @@ export const portfolioItems = [
     category: 'Product Videos',
     year: '2026',
     googleDriveUrl: 'https://drive.google.com/file/d/1kO6X3fjvcnt6rlQw33e_gOk34ukPKRtG/view?usp=drive_link',
-    thumbnailUrl: '/Pro-2.png',
+    thumbnailUrl: '/pro-2.png',
     aspectRatio: '9 / 16',
   },{
     id: 'Pro-1',
@@ -156,7 +156,7 @@ export const portfolioItems = [
     category: 'Product Videos',
     year: '2026',
     googleDriveUrl: 'https://drive.google.com/file/d/1gPqOy4z3J9uTxtiN-j3Th1ggSFQ6ZOOD/view?usp=drive_link',
-    thumbnailUrl: '/Pro-1.png',
+    thumbnailUrl: '/pro-1.png',
     aspectRatio: '9 / 16',
   },{
     id: '',
