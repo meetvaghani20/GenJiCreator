@@ -23,7 +23,7 @@ export default function Navbar() {
     >
       <nav className="section-shell flex h-20 items-center justify-between">
         <a href="#home" className="font-display text-xl font-extrabold text-white">
-          Meet <span className="gold-text">Vaghani</span>
+          Gen ji<span className="gold-text">Creator</span>
         </a>
 
         <div className="hidden items-center gap-8 md:flex">
