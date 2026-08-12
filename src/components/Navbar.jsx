@@ -22,8 +22,12 @@ export default function Navbar() {
       }`}
     >
       <nav className="section-shell flex h-20 items-center justify-between">
-        <a href="#home" className="font-display text-xl font-extrabold text-white">
-          Gen ji <span className="gold-text">Creator</span>
+        <a href="#home" className="flex items-center" aria-label="Gen ji Creator home">
+          <img
+            src="/gen-ji-logo.png"
+            alt="Gen ji Creator"
+            className="h-14 w-auto object-contain sm:h-16"
+          />
         </a>
 
         <div className="hidden items-center gap-8 md:flex">
