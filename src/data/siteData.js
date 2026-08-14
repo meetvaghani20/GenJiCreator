@@ -127,6 +127,15 @@ export const portfolioCategories = [
 
 export const portfolioItems = [
   {
+    id: 'LVB-1',
+    title: 'LVB SURAT VOLCANO & TAPI CHAPTER  Meeting   Reel',
+    category: 'Event Video Shoot',
+    year: '2026',
+    googleDriveUrl: 'https://drive.google.com/file/d/12wmruw7TLZh4bj4D08QPXJ5vPFDOWsgS/view?usp=drive_link',
+    thumbnailUrl: '/LVB-1.png',
+    aspectRatio: '9 / 16',
+  },
+  {
     id: 'jin-2',
     title: 'jin.xr Business Reel',
     category: 'Business Reel Shooting',
