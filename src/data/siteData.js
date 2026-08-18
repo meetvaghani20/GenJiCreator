@@ -127,6 +127,15 @@ export const portfolioCategories = [
 
 export const portfolioItems = [
   {
+    id: 'CIJ-1',
+    title: 'Cristal Institute of Jewellery Design 15 August Independence Day',
+    category: 'Event Video Shoot',
+    year: '2026',
+    googleDriveUrl: 'https://drive.google.com/file/d/19kWldg24gvs5Z87_zwU9yNB4xJoz5xcD/view?usp=drive_link',
+    thumbnailUrl: '/CIJ-1.png',
+    aspectRatio: '9 / 16',
+  },
+  {
     id: 'LVB-1',
     title: 'LVB SURAT VOLCANO & TAPI CHAPTER  Meeting   Reel',
     category: 'Event Video Shoot',
