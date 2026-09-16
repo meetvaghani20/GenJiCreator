@@ -173,7 +173,7 @@ export const portfolioItems = [
     category: 'Business Reel Shooting',
     year: '2026',
     googleDriveUrl: 'https://drive.google.com/file/d/1ta5uIGLxkYWNYhMDs2Ht_SPglvCoJkNA/view?usp=drive_link',
-    thumbnailUrl: '/BEG-5.PNG',
+    thumbnailUrl: '/BEG-5.png',
     aspectRatio: '9 / 16',
   },
   {
@@ -182,7 +182,7 @@ export const portfolioItems = [
     category: 'Business Reel Shooting',
     year: '2026',
     googleDriveUrl: '',
-    thumbnailUrl: '/BEG-4.PNG',
+    thumbnailUrl: '/BEG-4.png',
     aspectRatio: '9 / 16',
   },
   {
@@ -191,7 +191,7 @@ export const portfolioItems = [
     category: 'Business Reel Shooting',
     year: '2026',
     googleDriveUrl: 'https://drive.google.com/file/d/1Wo-Sp0f3qibrW4rSTrWz5WdIpi-uZgEb/view?usp=drive_link',
-    thumbnailUrl: '/BEG-3.PNG',
+    thumbnailUrl: '/BEG-3.png',
     aspectRatio: '9 / 16',
   },
   {
@@ -200,7 +200,7 @@ export const portfolioItems = [
     category: 'AI Reels',
     year: '2026',
     googleDriveUrl: 'https://drive.google.com/file/d/1d-YkISgujr4iakxnpHE4TiDt6ohzdmdP/view?usp=drive_link',
-    thumbnailUrl: '/AI-5.PNG',
+    thumbnailUrl: '/AI-5.png',
     aspectRatio: '9 / 16',
   },
   {
@@ -209,7 +209,7 @@ export const portfolioItems = [
     category: 'AI Reels',
     year: '2026',
     googleDriveUrl: 'https://drive.google.com/file/d/1Xn8MvBiBk-FOe9rzY80TMrG4bc8EwZn4/view?usp=drive_link',
-    thumbnailUrl: '/AI-4.PNG',
+    thumbnailUrl: '/AI-4.png',
     aspectRatio: '9 / 16',
   },
   {
@@ -218,7 +218,7 @@ export const portfolioItems = [
     category: '',
     year: '2026',
     googleDriveUrl: 'https://drive.google.com/file/d/1uye8EdFaENutaK3xRUgQ520hZKx3ZBym/view?usp=drive_link',
-    thumbnailUrl: '/AI-3.PNG',
+    thumbnailUrl: '/AI-3.png',
     aspectRatio: '9 / 16',
   },
   {
@@ -227,7 +227,7 @@ export const portfolioItems = [
     category: 'Business Reel Shooting',
     year: '2026',
     googleDriveUrl: 'https://drive.google.com/file/d/1LLZqvkHGmoPgsLgUHBRrbP_vrySFgmG8/view?usp=drive_link',
-    thumbnailUrl: '/GEM-1.PNG',
+    thumbnailUrl: '/GEM-1.png',
     aspectRatio: '9 / 16',
   },
   {
