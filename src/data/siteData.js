@@ -109,6 +109,7 @@ icon: FaWandMagicSparkles,
   // },
 ];
 
+
 export const portfolioCategories = [
   'All',
   'AI Reels',
@@ -126,6 +127,109 @@ export const portfolioCategories = [
 ];
 
 export const portfolioItems = [
+     {
+    id: 'EVENT8',
+    title: 'Welcome Home Little Prince Reel',
+    category: 'Event Video Shoot',
+    year: '2026',
+    googleDriveUrl: '',
+    thumbnailUrl: '/EVENT8.png',
+    aspectRatio: '9 / 16',
+  },
+
+     {
+    id: 'AI-6',
+    title: 'AI Reel 6',
+    category: 'AI Reels',
+    year: '2026',
+    googleDriveUrl: 'https://drive.google.com/file/d/1s_9Poe-aYAihirRGe7j88RfipCL-9Dit/view?usp=drive_link',
+    thumbnailUrl: '/AI-6.png',
+    aspectRatio: '9 / 16',
+  },
+
+    {
+    id: 'BEG-6',
+    title: 'Shakti iron reel',
+    category: 'Business Reel Shooting',
+    year: '2026',
+    googleDriveUrl: 'https://drive.google.com/file/d/1UplbmxJP9yNlFiY4GrBz_-pfbASezz_J/view?usp=drive_link',
+    thumbnailUrl: '/BEG-6.png',
+    aspectRatio: '9 / 16',
+  },
+
+  {
+    id: 'EVENT7',
+    title: 'LVB Meeting Reel',
+    category: 'Event Video Shoot',
+    year: '2026',
+    googleDriveUrl: 'https://drive.google.com/file/d/17nIRVshDHpGCIdRLD5Fwq0kBG6T8Ci6G/view?usp=drive_link',
+    thumbnailUrl: '/EVENT7.png',
+    aspectRatio: '9 / 16',
+  },
+
+  {
+    id: 'BEG-5',
+    title: 'Little Bee Store Reel',
+    category: 'Business Reel Shooting',
+    year: '2026',
+    googleDriveUrl: 'https://drive.google.com/file/d/1ta5uIGLxkYWNYhMDs2Ht_SPglvCoJkNA/view?usp=drive_link',
+    thumbnailUrl: '/BEG-5.png',
+    aspectRatio: '9 / 16',
+  },
+  {
+    id: 'BEG-4',
+    title: 'Kesari Nandan Reel',
+    category: 'Business Reel Shooting',
+    year: '2026',
+    googleDriveUrl: '',
+    thumbnailUrl: '/BEG-4.png',
+    aspectRatio: '9 / 16',
+  },
+  {
+    id: 'BEG-3',
+    title: 'JIYA Studio Reel',
+    category: 'Business Reel Shooting',
+    year: '2026',
+    googleDriveUrl: 'https://drive.google.com/file/d/1Wo-Sp0f3qibrW4rSTrWz5WdIpi-uZgEb/view?usp=drive_link',
+    thumbnailUrl: '/BEG-3.png',
+    aspectRatio: '9 / 16',
+  },
+  {
+    id: 'AI-5',
+    title: 'A Star Jewellery AI ',
+    category: 'AI Reels',
+    year: '2026',
+    googleDriveUrl: 'https://drive.google.com/file/d/1d-YkISgujr4iakxnpHE4TiDt6ohzdmdP/view?usp=drive_link',
+    thumbnailUrl: '/AI-5.png',
+    aspectRatio: '9 / 16',
+  },
+  {
+    id: 'AI-4',
+    title: 'AI reel ',
+    category: 'AI Reels',
+    year: '2026',
+    googleDriveUrl: 'https://drive.google.com/file/d/1Xn8MvBiBk-FOe9rzY80TMrG4bc8EwZn4/view?usp=drive_link',
+    thumbnailUrl: '/AI-4.png',
+    aspectRatio: '9 / 16',
+  },
+  {
+    id: 'AI-3',
+    title: 'Ai reel ',
+    category: '',
+    year: '2026',
+    googleDriveUrl: 'https://drive.google.com/file/d/1uye8EdFaENutaK3xRUgQ520hZKx3ZBym/view?usp=drive_link',
+    thumbnailUrl: '/AI-3.png',
+    aspectRatio: '9 / 16',
+  },
+  {
+    id: 'GEM-1',
+    title: 'Dtech Gamezone ',
+    category: 'Business Reel Shooting',
+    year: '2026',
+    googleDriveUrl: 'https://drive.google.com/file/d/1LLZqvkHGmoPgsLgUHBRrbP_vrySFgmG8/view?usp=drive_link',
+    thumbnailUrl: '/GEM-1.png',
+    aspectRatio: '9 / 16',
+  },
   {
     id: 'CIJ-1',
     title: 'Cristal Institute of Jewellery Design 15 August Independence Day',
